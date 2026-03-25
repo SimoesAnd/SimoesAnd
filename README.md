@@ -1,139 +1,78 @@
-# # Andrews Simões
+<p align="center">
+  <a href="https://github.com/SimoesAnd">
+    <img src="https://i.ibb.co/1G7p4rX/odevsincero-andrews-flu.gif"alt="Banner ODevSincero Andrews - Fluminense" width="450">
+  </a>
+</p>
 
-**`Desenvolvedor FullStack`**
-
-Me chamo Andrews Simões, tenho 26 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Centro Universitário Celso Lisboa. Sou apaixonado por tecnologia e iniciei novo na área como técnico em informática, formado no curso técnico de Informática pelo curso MData.
-
-<p align="left">
-    <a href="https://github.com/SimoesAnd?tab=repositories&sort=stargazers"> 
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/SimoesAnd?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/SimoesAnd?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/SimoesAnd?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=2DCC70&center=true&vCenter=true&width=500&lines=Bem-vindo(a)+ao+meu+perfil!;Desenvolvedor+Full+Stack;Estudante+de+ADS;Saudações+Tricolores!+🇭🇺" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🚀 Sobre Mim
+Olá, eu sou o **Andrews Simões**! Sou apaixonado por resolver problemas complexos através de código limpo e eficiente. Atualmente, foco meus estudos em tecnologias modernas de Web Development e Arquitetura de Software.
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas**.
+- 🛠️ Experiência com projetos de agendamento (Makeup Artist), ferramentas para desenvolvedores (HubCard) e gamificação (Bug Hunter).
+- 🇭🇺 Torcedor apaixonado pelo **Fluminense**.
 
+---
 
-<br/>
-<br/>
+## 🛠️ Tecnologias e Ferramentas
 
-### 📊 Estatísticas
+Aqui estão as tecnologias que fazem parte da minha rotina. Gosto de explorar ícones modernos e com leve efeito ao carregar.
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=simoesand&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+### Frontend & Design
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,sass,figma&theme=dark" alt="Habilidades Frontend" />
+</p>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=simoesand&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+### Backend & Banco de Dados
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,postgres,prisma&theme=dark" alt="Habilidades Backend" />
+</p>
 
+---
+
+## 🏆 Projetos em Destaque
+
+<details>
+  <summary><b>Clique para ver alguns dos meus projetos 📂</b></summary>
+  <br>
+
+* **[HubCard](https://github.com/SimoesAnd/HubCard):** Gerador de cartões de perfil personalizados utilizando a API do GitHub.
+* **[Bug Hunter](https://github.com/SimoesAnd/Bug-Hunter):** Um jogo educativo para praticar a identificação e correção de bugs em trechos de código.
+* **Agendamento para Profissionais:** Sistema focado em conversão via WhatsApp para profissionais autônomos.
+</details>
+
+---
+
+## 📈 Estatísticas do GitHub
+
+Esta seção usa widgets dinâmicos que se atualizam automaticamente.
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SimoesAnd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+</p>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimoesAnd&layout=compact&langs_count=7&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SimoesAnd&theme=tokyonight&hide_border=false" />
+</p>
+
+---
+
+## 📫 Vamos nos conectar?
+
+Gosto de trocar ideias sobre desenvolvimento e novas tecnologias.
+
+<p align="left">
+<a href="SEU_LINK_DO_LINKEDIN_AQUI" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="mailto:seuemail@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</p>
+
+---
+<p align="center">
+  <i>"O único lugar onde o sucesso vem antes do trabalho é no dicionário."</i><br>
+  <b><a href="https://github.com/SimoesAnd">ODevSincero - Andrews</a></b>
 </p>
