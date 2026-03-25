@@ -1,7 +1,6 @@
 <p align="center">
   <a href="https://github.com/SimoesAnd">
-    <img src="https://i.ibb.co/1G7p4rX/odevsincero-andrews-flu.gif"alt="Banner ODevSincero Andrews - Fluminense" width="450">
-  </a>
+<img src="https://i.ibb.co/3s3W2M2/odevsincero-andrews-v2-full.gif" alt="ODevSincero Andrews - Banner" width="550">  </a>
 </p>
 
 <p align="center">
@@ -10,16 +9,16 @@
 
 ---
 
-## 🚀 Sobre Mim
+##  Sobre Mim
 Olá, eu sou o **Andrews Simões**! Sou apaixonado por resolver problemas complexos através de código limpo e eficiente. Atualmente, foco meus estudos em tecnologias modernas de Web Development e Arquitetura de Software.
 
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas**.
-- 🛠️ Experiência com projetos de agendamento (Makeup Artist), ferramentas para desenvolvedores (HubCard) e gamificação (Bug Hunter).
+-  Cursando **Análise e Desenvolvimento de Sistemas**.
+-  Experiência com projetos de agendamento (Makeup Artist), ferramentas para desenvolvedores (HubCard) e gamificação (Bug Hunter).
 - 🇭🇺 Torcedor apaixonado pelo **Fluminense**.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+##  Tecnologias e Ferramentas
 
 Aqui estão as tecnologias que fazem parte da minha rotina. Gosto de explorar ícones modernos e com leve efeito ao carregar.
 
@@ -35,14 +34,14 @@ Aqui estão as tecnologias que fazem parte da minha rotina. Gosto de explorar í
 
 ---
 
-## 🏆 Projetos em Destaque
+##  Projetos em Destaque
 
 <details>
   <summary><b>Clique para ver alguns dos meus projetos 📂</b></summary>
   <br>
 
-* **[HubCard](https://github.com/SimoesAnd/HubCard):** Gerador de cartões de perfil personalizados utilizando a API do GitHub.
-* **[Bug Hunter](https://github.com/SimoesAnd/Bug-Hunter):** Um jogo educativo para praticar a identificação e correção de bugs em trechos de código.
+* **[HubCard](https://hubcard.vercel.app):** Gerador de cartões de perfil personalizados utilizando a API do GitHub.
+* **[Bug Hunter](https://bug-hunter-ojogodivertido.vercel.app):** Um jogo educativo para praticar a identificação e correção de bugs em trechos de código.
 * **Agendamento para Profissionais:** Sistema focado em conversão via WhatsApp para profissionais autônomos.
 </details>
 
@@ -67,8 +66,8 @@ Esta seção usa widgets dinâmicos que se atualizam automaticamente.
 Gosto de trocar ideias sobre desenvolvimento e novas tecnologias.
 
 <p align="left">
-<a href="SEU_LINK_DO_LINKEDIN_AQUI" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="mailto:seuemail@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/andrews-simoes/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="mailto:andrewsoliveira99@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
 
 ---
