@@ -1,10 +1,7 @@
-<p align="center">
-  <a href="https://github.com/SimoesAnd">
-<img src="https://i.ibb.co/3s3W2M2/odevsincero-andrews-v2-full.gif" alt="ODevSincero Andrews - Banner" width="550">  </a>
-</p>
+
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=2DCC70&center=true&vCenter=true&width=500&lines=Bem-vindo(a)+ao+meu+perfil!;Desenvolvedor+Full+Stack;Estudante+de+ADS;Saudações+Tricolores!+🇭🇺" alt="Typing SVG" />
+  <img src="https://media1.tenor.com/m/rEd35Rfq3m4AAAAd/cat-work-in-progress.gif" alt="Typing SVG" />
 </p>
 
 ---
